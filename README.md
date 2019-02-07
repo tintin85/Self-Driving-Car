@@ -18,4 +18,5 @@ Experiments are conducted with Python3 with the help of certain libraries like K
 
 **Result**
 
-The model predicts the steering angles for the test images taken by the front camera of the car.
+The model predicts the steering angles for the test images taken by the front camera of the car. A CSV file is generated to store the original test angles (in degree) and the corresponding predicted angles (in degree).
+
