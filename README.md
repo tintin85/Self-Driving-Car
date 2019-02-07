@@ -7,3 +7,5 @@ In this project I worked on a dataset of images taken by the forecam of a car, a
 The network architecture used in the proposed approach is inspired by [NVIDIA Corporation](https://arxiv.org/pdf/1604.07316.pdf).
 
 ![alt text](https://github.com/tintin85/Self-Driving-Car/blob/master/nividia%20cnn.png)
+
+## Experimental Setup
